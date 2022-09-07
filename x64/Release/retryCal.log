@@ -1,0 +1,11 @@
+﻿  retrySource.cpp
+C:\쌔 폴더 - C\이미지\enterPixel\retryCal\retryCal\retrySource.cpp(93,12): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\쌔 폴더 - C\이미지\enterPixel\retryCal\retryCal\retrySource.cpp(93,12): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\쌔 폴더 - C\이미지\enterPixel\retryCal\retryCal\retrySource.cpp(93,12): warning C4477: 'printf' : 서식 문자열 '%lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double *'입니다.
+C:\쌔 폴더 - C\이미지\enterPixel\retryCal\retryCal\retrySource.cpp(16,6): warning C4102: 'retry': 참조되지 않은 레이블입니다.
+  코드를 생성하고 있습니다.
+  4 of 4 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  retryCal.vcxproj -> C:\쌔 폴더 - C\이미지\enterPixel\retryCal\retryCal\x64\Release\retryCal.exe
